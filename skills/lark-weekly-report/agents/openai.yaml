@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书周报"
+  short_description: "完整读取上周消息和排期，按 Rainbow 模板生成简洁本周待办"
+  default_prompt: "使用 $lark-weekly-report 完整读取上周消息和排期，按 Rainbow 标准模板生成简短任务标签，并将固定部门周会安排在周五。"

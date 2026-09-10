@@ -1,0 +1,8 @@
+**/source-profile.local.md
+**/__pycache__/
+*.pyc
+.env
+.env.*
+weekly_report_data*/
+captures/
+*.log
